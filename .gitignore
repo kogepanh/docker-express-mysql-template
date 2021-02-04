@@ -2,7 +2,7 @@
 # Mac
 # ---------------------
 # MySQLのデータは共有しない
-docker/db/mysql/data/*
+docker/db/mysql/data
 
 # ---------------------
 # Mac
